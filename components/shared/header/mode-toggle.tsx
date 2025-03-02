@@ -1,4 +1,4 @@
-'use client';
+'use client'; // Indicates that the component should be rendered on the client-side
 
 import { useEffect, useState } from 'react';
 import { useTheme } from 'next-themes';
